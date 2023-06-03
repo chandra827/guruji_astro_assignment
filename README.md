@@ -1,6 +1,14 @@
-# Guruji Astro || Front End Developer || Assignment
+# Guruji Astro || Assignment
+![image_2023-06-03_14-05-13](https://github.com/chandra827/guruji_astro_assignment/assets/100562557/97a841a2-ccb4-448e-9dab-06123e085fac)
+
+![image_2023-06-03_14-05-44](https://github.com/chandra827/guruji_astro_assignment/assets/100562557/a4c285da-4285-4203-8265-b17fa2787ece)
+![image_2023-06-03_14-06-04](https://github.com/chandra827/guruji_astro_assignment/assets/100562557/45d1fe7c-86f2-4937-9a53-6a99ca6dc3df)
+![image_2023-06-03_14-06-45](https://github.com/chandra827/guruji_astro_assignment/assets/100562557/e2ca292b-c10d-4df8-9c8d-aafb8577a2af)
+![image_2023-06-03_14-07-08](https://github.com/chandra827/guruji_astro_assignment/assets/100562557/5dd6e5cf-8669-4ab2-acc1-a745c7dde283)
+![image_2023-06-03_14-07-25](https://github.com/chandra827/guruji_astro_assignment/assets/100562557/dba12466-149c-4b5d-a0bb-2f958174c0c5)
 
 
+![image_2023-06-03_14-07-37](https://github.com/chandra827/guruji_astro_assignment/assets/100562557/d1a48423-e3fe-4a5c-85f4-e8179c632ddb)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
