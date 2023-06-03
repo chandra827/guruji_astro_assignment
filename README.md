@@ -1,4 +1,6 @@
 # Guruji Astro || Assignment
+
+You can see the Live Project Here:- https://chandra827.github.io/guruji_astro_assignment/
 ![image_2023-06-03_14-05-13](https://github.com/chandra827/guruji_astro_assignment/assets/100562557/97a841a2-ccb4-448e-9dab-06123e085fac)
 
 ![image_2023-06-03_14-05-44](https://github.com/chandra827/guruji_astro_assignment/assets/100562557/a4c285da-4285-4203-8265-b17fa2787ece)
