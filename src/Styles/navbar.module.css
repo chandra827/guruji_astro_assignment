@@ -1,0 +1,68 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+}
+.menuIcon{
+    display: none;
+}
+.navbarLogo{
+    display: flex;
+    
+    align-items: center;
+}
+.navbarLogo > img{
+    
+    border-radius: 50%;
+    width: 66.29px;
+    height: 66.25px;
+    left: 0px;
+    top: 0px;
+}
+.navbarLogo > span{
+    font-family: '?????';
+    font-style: normal;
+    font-size: 25px;
+    font-weight: 400;
+    font-size: 40.0932px;
+    width: 108px;
+    left: 80.05px;
+    top: 8.59px;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    font-family: Poppins;
+    width: 50%;
+    gap: 24px;
+    width: 466px;
+    height: 30px;
+    left: 484px;
+    top: 31px;
+    
+
+    
+}
+
+.menu > p:hover{
+    color: #A74800;
+}
+.user{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.user > img{
+    width: 40px;
+    border-radius: 50%;
+}
+
+@media only screen and (max-width: 890px){
+    .menu{
+        display: none;
+    }
+    .menuIcon{
+        display: inline;
+        font-size: 50px;
+    }
+}
